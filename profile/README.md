@@ -4,7 +4,7 @@
 
 <div align="center">
   <img
-    src="./logo.png"
+    src="./logo2.png"
     alt="OuiTec - Soluções para A&B"
     width="220"
   />
