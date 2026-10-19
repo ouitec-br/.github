@@ -47,7 +47,6 @@ Transformamos os desafios do setor de **Alimentos e Bebidas (A&B)** em oportunid
 
 Este espaço reúne nossos projetos de desenvolvimento de software, integrações, ferramentas e iniciativas de engenharia.
 
-
 ## Missão, Visão e Valores
 
 <table>
@@ -103,6 +102,21 @@ Nossa abordagem de desenvolvimento prioriza a construção de sistemas confiáve
 | DevOps | Integração contínua e automação de entregas |
 
 ---
+
+## Projetos e Recursos
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Repositórios
+
+Explore nossos projetos e soluções desenvolvidas para o ecossistema de Alimentos e Bebidas.
+
+[Ver repositórios](https://github.com/orgs/ouitec-br/repositories)
+
+</td>
+<td width="33%" valign="top">
 
 ### Documentação
 
