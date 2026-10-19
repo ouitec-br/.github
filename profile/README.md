@@ -1,7 +1,15 @@
 
 <div align="center">
 
-# OuiTec
+
+<div align="center">
+  <img
+    src="./logo.png"
+    alt="OuiTec - Soluções para A&B"
+    width="220"
+  />
+</div>
+
 
 ### Soluções tecnológicas inovadoras para o setor de Alimentos & Bebidas
 
