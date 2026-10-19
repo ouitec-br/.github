@@ -47,38 +47,44 @@ Transformamos os desafios do setor de **Alimentos e Bebidas (A&B)** em oportunid
 
 Este espaço reúne nossos projetos de desenvolvimento de software, integrações, ferramentas e iniciativas de engenharia.
 
+
+## Missão, Visão e Valores
+
 <table>
-<tr>
-<td width="33%" valign="top">
-
-### Nossa missão
-
-Impulsionar a transformação digital do setor de A&B por meio de soluções tecnológicas inteligentes, sustentáveis e acessíveis.
-
-</td>
-<td width="33%" valign="top">
-
-### Nossos valores
-
-- Inovação contínua
-- Qualidade e segurança
-- Colaboração e transparência
-- Eficiência operacional
-- Foco em resultados
-
-</td>
-<td width="34%" valign="top">
-
-### O que você encontra aqui
-
-- Sistemas e aplicações
-- APIs e integrações
-- Bibliotecas reutilizáveis
-- Ferramentas de automação
-- Documentação técnica
-
-</td>
-</tr>
+  <tr>
+    <th width="33%" align="center">MISSÃO</th>
+    <th width="33%" align="center">VISÃO</th>
+    <th width="34%" align="center">VALORES</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Inspirar gestores</strong>
+    </td>
+    <td align="center">
+      <strong>Desenvolver o futuro da gastronomia</strong>
+    </td>
+    <td align="center">
+      <strong>Respeito, autenticidade, colaboração,
+      responsabilidade, inovação, excelência e
+      simplicidade.</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      Atuar como agente inspirador de ideias e
+      soluções para gestores gastronômicos.
+    </td>
+    <td align="center" valign="top">
+      Agregar valores tecnológicos de forma
+      sustentável em prol do futuro da gastronomia.
+    </td>
+    <td align="center" valign="top">
+      Respeito ao próximo, autenticidade,
+      colaboração, responsabilidade social,
+      paixão por tecnologia e inovação com
+      excelência e simplicidade.
+    </td>
+  </tr>
 </table>
 
 ---
@@ -97,21 +103,6 @@ Nossa abordagem de desenvolvimento prioriza a construção de sistemas confiáve
 | DevOps | Integração contínua e automação de entregas |
 
 ---
-
-## Projetos e Recursos
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### Repositórios
-
-Explore nossos projetos e soluções desenvolvidas para o ecossistema de Alimentos e Bebidas.
-
-[Ver repositórios](https://github.com/orgs/ouitec-br/repositories)
-
-</td>
-<td width="33%" valign="top">
 
 ### Documentação
 
